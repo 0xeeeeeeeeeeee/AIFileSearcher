@@ -5,7 +5,7 @@ It can still be used normally.
 
 You can tell from the name what it is for, but the emergence of MCP has resulted in my project having no prospects; MCP does a much better job than my application, so I gave up on this project.
 
-I will no longer maintain it, after the last update - added the function of use other API from other vendor.
+After the last update, I will no longer maintain it - adding features that use other vendors' APIs.
 
 get it:
 
